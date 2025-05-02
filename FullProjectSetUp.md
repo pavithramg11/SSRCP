@@ -1,4 +1,4 @@
-# CARLA Project Setup and Running Guide
+# Project Setup and Running Guide
 
 This guide provides detailed instructions to set up and run the CARLA simulator, Flask APIs, MongoDB tunneling, traffic generation, backend, frontend, and WebSocket streaming.
 
